@@ -5,7 +5,7 @@ export default () => {
   return(
     <div className="py-10 flex flex-col md:flex-row items-center justify-center gap-20 text-sm text-zinc-400">
       <div className="grid grid-cols-2 items-center gap-10">
-        <ol className="flex flex-col gap-5">
+        <ol className="flex flex-col items-center gap-5">
           <Link href="/">Início</Link>
           <Link href="/">Sobre nós</Link>
           <Link href="/">Guia</Link>
