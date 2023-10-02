@@ -2,7 +2,7 @@ export default () => {
   return(
     <div className="mt-24 flex flex-col items-center text-center space-y-10">
       <div className="flex flex-col gap-6">
-        <strong className="text-6xl">
+        <strong className="text-4xl md:text-6xl">
           Moldando um mundo <br/> com reimaginação.
         </strong>
 
