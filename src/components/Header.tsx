@@ -35,7 +35,7 @@ export default () => {
           </Link>
         </nav>
 
-        <button className="px-4 py-1 rounded-full bg-violet-500"> 
+        <button className="hidden md:block px-4 py-1 rounded-full bg-violet-500"> 
           Começar
         </button>
       </div>
